@@ -1,1 +1,1 @@
-This the beginning
+This project is to learn git commands
